@@ -63,7 +63,7 @@ bioImageUrl = ""
 useGravatar = false
 location = "Seoul, Korea"
 organization = "Freelancer"
-link = "https://github.io/oct28-yjkim"
+link = ""
 
 # sidebar
 enableBio = true
@@ -161,7 +161,7 @@ commento = false
   phone = ""
   facebook = "http://example.org/"
   twitter = "http://example.org/"
-  github = "https://github.com/oct28-yjkim/"
+  github = ""
   stack-overflow = ""
   instagram = ""
   google-plus = ""

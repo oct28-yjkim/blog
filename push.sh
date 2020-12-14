@@ -2,7 +2,7 @@
 set -ex
 
 cd public
-git add . -A
+git add . 
 git commit -m "update blog `date`"
-git push origin master ;
+git push origin 
 
